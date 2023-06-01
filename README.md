@@ -1,5 +1,5 @@
 ## Fake News Detection Python Code
-## https://github.com/Abdulllahmad/FakeNewsDetection.git
+## https://github.com/Abdulllahmad/FakeNewsDetection
 
 This Python code is designed to detect fake news articles using machine learning techniques. It leverages several libraries and follows a specific approach for classification. The code provides functionality for training models, evaluating their performance, and performing manual testing.
 
